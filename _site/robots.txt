@@ -1,1 +1,1 @@
-Sitemap: /https://kommuniker.github.io/sitemap.xml
+Sitemap: /kommuniker.github.io/sitemap.xml
